@@ -13,7 +13,6 @@ end
 
 oxford_comma(array)
 
-Badge lab
 
 
 
